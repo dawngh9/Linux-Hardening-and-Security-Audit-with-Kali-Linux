@@ -1,0 +1,33 @@
+May 18 15:06:43 dawn sshd-session[5052]: Failed password for invalid user dawn from 10.0.2.2 port 52904 ssh2
+May 18 15:06:54 dawn sshd-session[5052]: Failed password for invalid user dawn from 10.0.2.2 port 52904 ssh2
+May 18 15:07:03 dawn sshd-session[5052]: Failed password for invalid user dawn from 10.0.2.2 port 52904 ssh2
+May 18 15:08:32 dawn sshd-session[6074]: Failed password for invalid user dawn from 10.0.2.2 port 52972 ssh2
+May 18 15:09:12 dawn sshd-session[6074]: Failed password for invalid user dawn from 10.0.2.2 port 52972 ssh2
+May 18 15:09:21 dawn sshd-session[6074]: Failed password for invalid user dawn from 10.0.2.2 port 52972 ssh2
+Jun 09 14:06:11 dawn sudo[165424]:   dawngh : TTY=pts/0 ; PWD=/home/dawngh/linux-hardening-project/scripts ; USER=root ; COMMAND=/usr/bin/grep 'Failed password' /var/log/auth.log
+Jun 09 14:10:51 dawn sshd-session[167843]: Failed password for invalid user fakeuser from ::1 port 35020 ssh2
+Jun 09 14:11:05 dawn sshd-session[167843]: Failed password for invalid user fakeuser from ::1 port 35020 ssh2
+Jun 09 14:11:26 dawn sshd-session[167843]: Failed password for invalid user fakeuser from ::1 port 35020 ssh2
+Jun 09 14:13:07 dawn sshd-session[169212]: Failed password for invalid user fakeuser from ::1 port 34548 ssh2
+Jun 09 14:13:12 dawn sshd-session[169212]: Failed password for invalid user fakeuser from ::1 port 34548 ssh2
+Jun 09 14:13:12 dawn sshd-session[169212]: Failed password for invalid user fakeuser from ::1 port 34548 ssh2
+Jun 09 14:19:18 dawn sshd-session[172593]: Failed password for invalid user fakeuser from ::1 port 55228 ssh2
+Jun 09 14:19:24 dawn sshd-session[172593]: Failed password for invalid user fakeuser from ::1 port 55228 ssh2
+Jun 09 14:19:30 dawn sshd-session[172593]: Failed password for invalid user fakeuser from ::1 port 55228 ssh2
+Jun 09 14:22:58 dawn sshd-session[174552]: Failed password for invalid user fakeuser from ::1 port 39370 ssh2
+Jun 09 14:23:05 dawn sshd-session[174552]: Failed password for invalid user fakeuser from ::1 port 39370 ssh2
+Jun 09 14:23:11 dawn sshd-session[174552]: Failed password for invalid user fakeuser from ::1 port 39370 ssh2
+Jun 09 14:28:03 dawn sudo[177376]:   dawngh : TTY=pts/0 ; PWD=/home/dawngh/linux-hardening-project ; USER=root ; COMMAND=/usr/bin/grep 'Failed password' /var/log/auth.log
+Jun 09 14:29:20 dawn sudo[178066]:   dawngh : TTY=pts/0 ; PWD=/home/dawngh/linux-hardening-project ; USER=root ; COMMAND=/usr/bin/grep 'Failed password' /var/log/auth.log
+Jun 09 14:36:48 dawn sshd-session[182111]: Failed password for invalid user fakeuser from ::1 port 45324 ssh2
+Jun 09 14:36:52 dawn sshd-session[182111]: Failed password for invalid user fakeuser from ::1 port 45324 ssh2
+Jun 09 14:36:59 dawn sshd-session[182111]: Failed password for invalid user fakeuser from ::1 port 45324 ssh2
+Jun 09 14:42:04 dawn sshd-session[185203]: Failed password for invalid user fakeuser from ::1 port 43856 ssh2
+Jun 09 14:42:07 dawn sshd-session[185203]: Failed password for invalid user fakeuser from ::1 port 43856 ssh2
+Jun 09 14:42:12 dawn sshd-session[185203]: Failed password for invalid user fakeuser from ::1 port 43856 ssh2
+Jun 09 14:43:45 dawn sshd-session[186142]: Failed password for invalid user fakeuser from ::1 port 55768 ssh2
+Jun 09 14:43:49 dawn sshd-session[186142]: Failed password for invalid user fakeuser from ::1 port 55768 ssh2
+Jun 09 14:43:54 dawn sshd-session[186142]: Failed password for invalid user fakeuser from ::1 port 55768 ssh2
+Jun 09 14:50:37 dawn sshd-session[190442]: Failed password for invalid user fakeuser from ::1 port 47622 ssh2
+Jun 09 14:50:42 dawn sshd-session[190442]: Failed password for invalid user fakeuser from ::1 port 47622 ssh2
+Jun 09 14:50:47 dawn sshd-session[190442]: Failed password for invalid user fakeuser from ::1 port 47622 ssh2
